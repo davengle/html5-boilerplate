@@ -7,4 +7,4 @@ package-lock.json
 credentials.py
 
 #Ignore folder
-/repos/html5-boilerplate/text/*.txt
+dist/text/*.txt
